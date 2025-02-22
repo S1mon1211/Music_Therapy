@@ -13,8 +13,8 @@
   
   By bridging data-driven analysis with music therapy principles, this research aims to inform clinical practices and optimize music platforms’ therapeutic potential through context-aware, personalized interventions. 
 
-  ### Output：
-  To see Interactive Data Visualisations created by Plotly and corresponding insights, [**👉🔗CLICK HERE👈**](https://nbviewer.org/github/S1mon1211/Music_Therapy/blob/main/DataViz_and_Insights.ipynb)
+### Output
+  - To see Interactive Data Visualisations created by Plotly and corresponding insights, [**👉🔗CLICK HERE👈**](https://nbviewer.org/github/S1mon1211/Music_Therapy/blob/main/DataViz_and_Insights.ipynb)
   
 ### Goal
   - Investigate the relationship between different music-listening habits and mental conditions
