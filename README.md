@@ -40,4 +40,38 @@
 
 ```
 ## Key Findings
+### Listening Habits And Mental Health
+<p align='center'>
+<img src='https://github.com/S1mon1211/Music_Therapy/blob/main/Graphs/Responder_preference.png?raw=true'>
+</p>
+
+#### Findings:
+As the responders in this survey are mostly 14-35 year-old young people, so they seem to prefer fast-paced music genres(Rock: 25.5%, Pop: 15.7% and Metal: 12.1%), which may impact their mental conditions.
+
+
+![Plot2](https://github.com/S1mon1211/Music_Therapy/blob/main/Graphs/Listening_Frequency.png)
+
+#### Findings:
+Obvious variations could be identified in the listening frequency for each genre (Rock and pop are more popular than Gospel and Latin).
+
+![Plot3](https://github.com/S1mon1211/Music_Therapy/blob/main/Graphs/Age.png)
+
+#### Findings:
+Different genres may attract specific age groups, which indicates that certain music therapy could be proposed to targeted groups.
+
+### Music Genres And Mental Health
+![Plot4](https://github.com/S1mon1211/Music_Therapy/blob/main/Graphs/Fav_genre_intensity.png)
+
+#### Findings:
+After defining three intensity levels(1-3: mild, 4-7: moderate, 8-10: severe), we compared among genres by mental problem.
+- For Anxiety, **folk and pop** listeners have obviously higher intensity (75% above level 6), while **gospel** listeners are less likely to have anxiety (75% below level 6).
+- For depression, **lofi** listeners have severe depression intensity (50% above level 8), while **gospel** listeners seem to have smaller possibility to be depressed (75% below level 4).
+- For insomnia, latin fans have lower insomnia intensity (all of which below level 1) and no specific genres seem to result in high intensity.
+- For OCD, music therapy exhibits almost no effect on it.
+
+### Genre Recommendations For Therapy
+![Plot5](https://github.com/S1mon1211/Music_Therapy/blob/main/Graphs/Therapy_effect_anxiety.png)
+
+#### Findings:
+We examined therapy effects for each of four mental disorders and here is an example on anxiety. For more details, go check data analysis notebook. 
 
