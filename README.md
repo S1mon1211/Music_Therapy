@@ -1,5 +1,6 @@
 # Effect of Music Therapy on Mental Health
 @Simon_Hua
+To see my personal profile, [**🔗CLICK HERE**](https://s1mon1211.github.io/Music_Therapy/)
 
 ## Project Overview
 ### Introduction
