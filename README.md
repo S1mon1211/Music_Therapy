@@ -80,6 +80,5 @@ After defining three intensity levels(1-3: mild, 4-7: moderate, 8-10: severe), w
 </p>
 
 #### Findings:
-We examined therapy effects for each of four mental disorders and here is an example on anxiety. For more details, go check data analysis notebook. 
-[**Data Analysis Notebook**](https://github.com/S1mon1211/Music_Therapy/blob/main/Data_Analysis_on_Music_Therapy_Effect.ipynb)
+We examined therapy effects for each of four mental disorders and here is an example on anxiety. For more details, go check [**Data Analysis Notebook**](https://github.com/S1mon1211/Music_Therapy/blob/main/Data_Analysis_on_Music_Therapy_Effect.ipynb).
 
